@@ -1,0 +1,52 @@
+body{
+    overflow-x: hidden;
+}
+
+.paragraph p{
+    
+    font-size: 20px;
+}
+
+.paragraph ul li{
+   
+    font-size: 20px;
+}
+
+.eee{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+footer {
+    background-color: rgb(70, 58, 50);
+    padding: 20px 0;
+    color: #fff;
+    position: relative;
+    top:100px;
+    left: 1px;
+  }
+  .footer-social a {
+    color: #fff3cd;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+
+.div-1{
+    background-color: gray;
+    width: 102vw;
+
+}
+
+.my-ul ul li{
+    margin-left: 150px;
+}
+
+
+@media (max-width:684px){
+    .b-1{
+        position: relative;
+        left:80px;
+        
+    }
+}

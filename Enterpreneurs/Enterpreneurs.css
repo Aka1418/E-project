@@ -1,0 +1,54 @@
+body{
+    overflow-x: hidden;
+}
+
+.paragraph p{
+   margin-right:10px ;
+    font-size: 18px;
+}
+
+.paragraph ul li{
+   
+    font-size: 18px;
+    
+}
+.ul ul li{
+    margin-left: 150px;
+}
+.eee{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+footer {
+    background-color: rgb(70, 58, 50);
+    padding: 20px 0;
+    color: #fff;
+    position: relative;
+    top:100px;
+    left: 1px;
+  }
+  .footer-social a {
+    color: #fff3cd;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+
+
+.div-1{
+    background-color: gray;
+    width: 98vw;
+
+}
+
+
+@media (max-width:684px){
+    .b-1{
+        position: relative;
+        left:80px;
+        
+    }
+}
+
+
